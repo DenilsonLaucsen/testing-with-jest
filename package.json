@@ -19,5 +19,8 @@
   "homepage": "https://github.com/DenilsonLaucsen/testing-with-jest#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "axios": "^0.26.1"
   }
 }
